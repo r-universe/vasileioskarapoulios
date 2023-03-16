@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "LDNN"]
+	path = LDNN
+	url = https://github.com/vasileioskarapoulios/ldnn
+	shallow = true
+	registered = true
